@@ -1,0 +1,9 @@
+{
+  "path": "br-pb-joao-pessoa",
+  "code": "BR-PB-JOAO-PESSOA",
+  "name": "João Pessoa (city)",
+  "level": "municipality",
+  "parent": "br-pb",
+  "repo": "https://github.com/lexifina/brazil-joao-pessoa-city-law",
+  "build": "built: the Lei Orgânica of João Pessoa, from the Câmara Municipal's updated edition"
+}

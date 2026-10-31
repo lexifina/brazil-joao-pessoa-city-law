@@ -1,0 +1,19 @@
+{
+ "country": "BR-PB-JOAO-PESSOA",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-JP",
+   "title": "Lei Orgânica do Município de João Pessoa",
+   "url": "https://sapl.joaopessoa.pb.leg.br/norma/14101",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 237,
+     "source_url": "http://sapl.joaopessoa.pb.leg.br/media/sapl/public/normajuridica/1990/14101/lei_organica.pdf",
+     "sha256": "f859ade2226d6f03c01c2e2816990b68851354ed6d51d5ce54106bd0072ad825"
+    }
+   ]
+  }
+ ]
+}
