@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "10-lei-organica.json": {
+   "acts": [
+    "lei-organica"
+   ],
+   "sha256": "2edd44545719a52d991f83410f04f22b2ddd2b09fbb9ee705d81fbf91b02d94b"
+  }
+ },
+ "schema": 1
+}
