@@ -14,6 +14,20 @@
      "sha256": "f859ade2226d6f03c01c2e2816990b68851354ed6d51d5ce54106bd0072ad825"
     }
    ]
+  },
+  {
+   "slug": "lei-2025-15465",
+   "short": "Lei 15465/2025",
+   "title": "Lei nº 15.465, de 4 de fevereiro de 2025",
+   "url": "https://sapl.joaopessoa.pb.leg.br/norma/22073",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 14,
+     "source_url": "https://sapl.joaopessoa.pb.leg.br/media/sapl/public/normajuridica/2025/22073/15.465_-_04.02.25_-_autoriza_funcionameneto_estabelecimentos_brozeamento_artificial.pdf",
+     "sha256": "0120c4df7f9bc082c6ecedd30813cabaf95222d95c49554ebe9f89bd605c1823"
+    }
+   ]
   }
  ]
 }

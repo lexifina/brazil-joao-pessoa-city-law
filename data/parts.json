@@ -5,6 +5,12 @@
     "lei-organica"
    ],
    "sha256": "3ca4fb7150ad85ab190e33fd8d327246849a7f29ca42400f79c4ab5c9d19929b"
+  },
+  "30-leis-012.json": {
+   "acts": [
+    "lei-2025-15465"
+   ],
+   "sha256": "79bb44e501d1991afe861ecf6ff05bef45f0488ecdb3a9328713beebf6818c7e"
   }
  },
  "schema": 1
