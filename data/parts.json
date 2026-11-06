@@ -11,6 +11,18 @@
     "lei-2025-15465"
    ],
    "sha256": "79bb44e501d1991afe861ecf6ff05bef45f0488ecdb3a9328713beebf6818c7e"
+  },
+  "30-leis-017.json": {
+   "acts": [
+    "lei-2024-15236"
+   ],
+   "sha256": "bf5abe6d6cb5701be64f3ed6d19e4dbec709b74fe13bb256f3436f56393e789a"
+  },
+  "30-leis-018.json": {
+   "acts": [
+    "lei-2024-15181"
+   ],
+   "sha256": "4c18bc41b32a62f83bfde4e0dff43b63319e7de0d9a5d84a7859cbe605b0d509"
   }
  },
  "schema": 1

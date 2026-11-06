@@ -28,6 +28,34 @@
      "sha256": "0120c4df7f9bc082c6ecedd30813cabaf95222d95c49554ebe9f89bd605c1823"
     }
    ]
+  },
+  {
+   "slug": "lei-2024-15236",
+   "short": "Lei 15236/2024",
+   "title": "Lei nº 15.236, de 20 de junho de 2024",
+   "url": "https://sapl.joaopessoa.pb.leg.br/norma/20432",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 4,
+     "source_url": "https://sapl.joaopessoa.pb.leg.br/media/sapl/public/normajuridica/2024/20432/15.236_-_20.06.24_-_altera_lei_14.823_de_22.06.24_-instalacao_complexo_recreativo_servidores_legislativo_-_republicacao.pdf",
+     "sha256": "894ae982838e4cce214a618296430ad73d0cedbe99d121c2086209de0ff92ce4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-15181",
+   "short": "Lei 15181/2024",
+   "title": "Lei nº 15.181, de 2 de maio de 2024",
+   "url": "https://sapl.joaopessoa.pb.leg.br/norma/20100",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 11,
+     "source_url": "https://sapl.joaopessoa.pb.leg.br/media/sapl/public/normajuridica/2024/20100/15.181_-_02.05.24_-_regulamenta_servico_transporte_pequenas_cargas_taxi_especial.pdf",
+     "sha256": "29d828375bd8ce8020ac5403cfdbee57216d2cc74ceb7a6c26dc361512dab5cf"
+    }
+   ]
   }
  ]
 }
